@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>897BDE47-FF6B-48B9-A50C-4BAF241C826B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JZIMSDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>07E51FD7-9785-4FFE-B84A-44C15942E4C8</key>
+		<string>http://103.55.172.22/mengqiu/ios-MSDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JZIMSDK.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>07E51FD7-9785-4FFE-B84A-44C15942E4C8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://103.55.172.22/mengqiu/ios-MSDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>07E51FD7-9785-4FFE-B84A-44C15942E4C8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>07E51FD7-9785-4FFE-B84A-44C15942E4C8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-MSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
